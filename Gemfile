@@ -1,2 +1,7 @@
+# source 'https://rubygems.org'
 source 'https://ruby.taobao.org/'
-gem 'github-pages', group: :jekyll_plugins
+
+gem 'execjs'
+gem 'therubyracer'
+gem 'github-pages'
+gem 'jekyll-paginate'
