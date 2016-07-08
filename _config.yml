@@ -63,7 +63,7 @@ url-pretty: "www.ihakula.com"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "ihakula"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-80518283-1"
