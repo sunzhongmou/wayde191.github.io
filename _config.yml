@@ -25,8 +25,8 @@ description: Hakuna matata. Means no worries for the rest days of your life!
 navbar-links:
   PROJECTS: "aboutme"
   ABOUT ME / CONTACT: "aboutme"
-  Resources:
-    - GitHub Pages: "https://github.com/wayde191"
+  SWIFT:
+    - History: "2016-08-02-swift-history"
   Author's home: "http://www.ihakula.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
